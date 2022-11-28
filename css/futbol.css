@@ -1,0 +1,23 @@
+*{
+	color: white;
+	margin: 5px;
+	padding: 5px;
+
+}
+h5{
+	text-align: left;
+	color: white;
+}
+body{
+	background-color: red;
+}
+h1{
+	text-align: center;
+}
+#furbo{
+	height: 30%;
+	width: 30%;
+}
+p{
+	text-align: left;
+}
